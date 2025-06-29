@@ -1,0 +1,22 @@
+**** GUN SHOOTING GAME***
+o play the game:
+
+1. Save as shooting_game.py
+2. Run the file
+3. Controls:
+   - Left/Right Arrow: Move gun
+   - Space: Shoot
+   - Enter: Restart game (when game over)
+Features:
+
+- Moving targets
+- Shooting mechanics
+- Score tracking
+- Lives system
+- Collision detection
+- Game over screen
+- Restart functionality
+- Smooth animations
+- Multiple targets
+- Bouncing targets
+- Progressive difficulty
